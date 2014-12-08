@@ -6,7 +6,7 @@ include: unit test, automatic task, css processor (less), v.v...
 ## Getting Started
 
 To get you started you can simply clone my-exercise repository:
-* https://github.com/AHSR0x/my-exercises.git
+* git clone https://github.com/AHSR0x/my-exercises.git
 * cd my-exercises
 
 After that run following command for installing bower depencies
