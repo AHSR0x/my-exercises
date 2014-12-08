@@ -9,7 +9,9 @@ To get you started you can simply clone my-exercise repository:
 * git clone https://github.com/AHSR0x/my-exercises.git
 * cd my-exercises
 
-After that run following command for installing bower depencies
+## Install Depencies:
+
+Run following commands to install depencies: 
+
 * bower install
-After that run following command for installing node package depencies
 * npm install
