@@ -1,0 +1,11 @@
+{
+  "name": "my-exercises",
+  "description": "playing arount with javascript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AHSR0x/my-exercises"
+  },
+  "dependencies": {
+    
+  }
+}
