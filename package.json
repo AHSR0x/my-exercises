@@ -6,6 +6,10 @@
     "url": "https://github.com/AHSR0x/my-exercises"
   },
   "dependencies": {
-    
+    "browserify": "~7.0.0",
+    "gulp": "~3.8.10",
+    "gulp-util": "~3.0.1",
+    "karma": "~0.12.28",
+    "minify": "~1.4.0"
   }
 }
