@@ -5,8 +5,9 @@
   require('../bower_components/angular/angular.min.js');
   require('../bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js');
   require('../bower_components/angular-ui-router/release/angular-ui-router.min.js');
+  require('./modules/common.factories.js');
   require('./controllers/exercise.controllers.js');
-  require('./modules/datastruct.js');
+  require('./modules/data-struct.factories.js');
 
   // Inject all depencies
   angular.
@@ -14,7 +15,8 @@
       'ui.router',
       'ui.bootstrap',
       'exercise.controllers',
-      'datastruct.factories'
+      'common.factories',
+      'data-struct.factories'
     ])
     .config(function($stateProvider) {
 
