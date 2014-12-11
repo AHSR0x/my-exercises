@@ -48,11 +48,6 @@
 
 	angular.module('exercise.controllers', [])
 		.controller('exerciseDominoCtrl', ['traverseStacks', function(traverseStacks) {
-			var a = [
-				[0], [123, 1234], [566, 978, 100], [56, 67]
-			];
-			console.log(JSON.stringify(traverseStacks(a)));
-			
 		}])
 })();
 },{}],3:[function(require,module,exports){
@@ -200,7 +195,6 @@
 /*
  * angular-ui-bootstrap
  * http://angular-ui.github.io/bootstrap/
-
  * Version: 0.12.0 - 2014-11-16
  * License: MIT
  */

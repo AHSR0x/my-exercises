@@ -6,7 +6,6 @@
 	 *
 	 * Watching changes and compressing all js files require for this project into one file
 	 */
-
 	var exec = require('child_process').exec;
 	var gulp = require('gulp');
 
