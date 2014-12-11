@@ -1,7 +1,7 @@
 (function() {
-	'use strict';
+  'use strict';
 
-	angular.module('exercise.controllers', [])
-		.controller('exerciseDominoCtrl', ['traverseStacks', function(traverseStacks) {
-		}])
+  angular.module('exercise.controllers', [])
+    .controller('exerciseDominoCtrl', ['traverseStacks', function(traverseStacks) {
+  }]) 
 })();
