@@ -1,7 +1,6 @@
 # My exercises
 
-This project including my exercises as school. Using some technology to manage this project,
-include: unit test, automatic task, css processor (less), v.v...
+This project including my exercises at school. Using some technology to train myself
 
 ## Getting Started
 
