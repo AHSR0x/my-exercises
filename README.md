@@ -15,3 +15,12 @@ Run following commands to install depencies:
 
 * bower install
 * npm install
+
+## Tech:
+
+Project use some technologies for work properly
+
+* [Karma] - Unit test tool. In this project we use jasmine framework for testing
+* [AngularJS] - HTML enhanced for web apps!
+* [Gulp] - Automatic task
+* [Browserify] - Makes the structure and modularity code
