@@ -1,12 +1,12 @@
 (function() {
 	'use strict';
-	angular.module('exercise.controllers', [])
 
-		// Controller for exercise about data structure: domino.
+	angular.module('exercise.controllers', [])
 		.controller('exerciseDominoCtrl', ['traverseStacks', function(traverseStacks) {
-			traverseStacks.process([
-				[5,6],
-				[7,4]
-			]);
-		}]);
+			var a = [
+				[0], [123, 1234], [566, 978, 100], [56, 67]
+			];
+			console.log(JSON.stringify(traverseStacks(a)));
+			
+		}])
 })();
